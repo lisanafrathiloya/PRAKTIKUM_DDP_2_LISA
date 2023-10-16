@@ -73,3 +73,28 @@ elif masuk_login == "pembeli" :
         print(total)
 else:
     print("data tidak valid")
+
+
+
+
+
+![WhatsApp Image 2023-10-16 at 11 22 25](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/318ebc14-2c23-48ce-82b8-41e8502cd3dc)
+- Program user memilih menjadi admin dan memilih no 1. menambahkan barang
+- maka hasil dari input barang ada tambahan 1 barang tambahan
+![WhatsApp Image 2023-10-16 at 11 22 50](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/e5de2413-f2a4-4ec6-a210-939bea14aa89)
+- Program user memilih menjadi admin dan memilih no 2. menampilkan barang
+- maka hasil dari input menampilkan barang yang tersedia
+![WhatsApp Image 2023-10-16 at 11 23 08](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/cbcb99a4-0888-4255-8648-1b3126ef66b2)
+- Program user memilih menjadi admin dan memilih no 3. mengupdate barang
+- maka hasil dari input mengupdate barang
+![WhatsApp Image 2023-10-16 at 11 23 29](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/5e5c0556-27ae-4883-9193-926aa465eb66)
+- Program user memilih menjadi admin dan memilih no 4. menghapus barang
+- maka hasil dari input menghapus salah satu barang
+![WhatsApp Image 2023-10-16 at 11 23 18](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/67320f3a-d813-448c-9000-221711963bf3)
+- Program user memelih menjadi pembeli
+- pemebeli bisa memilih barang yang ingin di beli
+- dan user bisa memasukan jumlah barang yang di inginkan 
+
+
+
+
