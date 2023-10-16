@@ -87,10 +87,10 @@ else:
 ![WhatsApp Image 2023-10-16 at 11 23 08](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/cbcb99a4-0888-4255-8648-1b3126ef66b2)
 - Program user memilih menjadi admin dan memilih no 3. mengupdate barang
 - maka hasil dari input mengupdate barang
-![WhatsApp Image 2023-10-16 at 11 23 29](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/5e5c0556-27ae-4883-9193-926aa465eb66)
+![WhatsApp Image 2023-10-16 at 11 23 18](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/4d234371-ad46-4d8b-91c4-f6d08146b7b3)
 - Program user memilih menjadi admin dan memilih no 4. menghapus barang
 - maka hasil dari input menghapus salah satu barang
-![WhatsApp Image 2023-10-16 at 11 23 18](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/67320f3a-d813-448c-9000-221711963bf3)
+![WhatsApp Image 2023-10-16 at 11 23 29](https://github.com/lisanafrathiloya/PRAKTIKUM_DDP_2_LISA/assets/144829981/741cbf4d-557a-4e29-9d20-c958d4bb24b2)
 - Program user memelih menjadi pembeli
 - pemebeli bisa memilih barang yang ingin di beli
 - dan user bisa memasukan jumlah barang yang di inginkan 
